@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swords_and_Spells", "Swords_and_Spells\Swords_and_Spells.csproj", "{13B6A162-1D47-4587-9A53-CC5E7E77790F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B6A162-1D47-4587-9A53-CC5E7E77790F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B6A162-1D47-4587-9A53-CC5E7E77790F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B6A162-1D47-4587-9A53-CC5E7E77790F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B6A162-1D47-4587-9A53-CC5E7E77790F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90D2165E-127F-4B7B-BE19-98CC49038838}
+	EndGlobalSection
+EndGlobal
